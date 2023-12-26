@@ -1,0 +1,36 @@
+_repo: Travelogue_72174
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aycock, Roger D.
+    aliases:
+    - Dee, Roger
+    - Starr, John
+    birthdate: 1914
+    deathdate: 2004
+    gutenberg_agent_id: '25679'
+    url: http://www.gutenberg.org/2009/agents/25679
+    wikipedia: https://en.wikipedia.org/wiki/Roger_Dee
+description: ''
+gutenberg_issued: '2023-11-19'
+identifiers:
+  gutenberg: '72174'
+language: en
+pgterms:marc905: 20231020061608dee
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1956.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction -- Authorship -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Travelogue
+url: http://www.gutenberg.org/ebooks/72174
